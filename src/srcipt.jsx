@@ -189,6 +189,3 @@ const TimerSetting = (props) => {
     </div>
   );
 };
-
-
-export default App;
